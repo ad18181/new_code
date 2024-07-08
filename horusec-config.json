@@ -45,8 +45,8 @@
   "horusecCliShowVulnerabilitiesTypes": [
     "Vulnerability"
   ],
-  "horusecCliTimeoutInSecondsAnalysis": 600,
-  "horusecCliTimeoutInSecondsRequest": 300,
+  "horusecCliTimeoutInSecondsAnalysis": ,
+  "horusecCliTimeoutInSecondsRequest": ,
   "horusecCliToolsConfig": {
     "Bandit": {
       "istoignore": false
