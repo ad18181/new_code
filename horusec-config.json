@@ -35,8 +35,8 @@
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "text",
   "horusecCliProjectPath": "/home/amogh.dixit/Projects/horusec",
-  "horusecCliRepositoryAuthorization": "4f2421ee-58fc-419c-9537-39a2de4e264d",
-  "horusecCliRepositoryName": "Repo1",
+  "horusecCliRepositoryAuthorization": "f09c888c-525e-491b-9e90-1f5876478734",
+  "horusecCliRepositoryName": "test4",
   "horusecCliReturnErrorIfFoundVulnerability": true,
   "horusecCliRiskAcceptHashes": null,
   "horusecCliSeveritiesToIgnore": [
