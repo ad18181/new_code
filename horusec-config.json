@@ -29,14 +29,14 @@
     "**/.vscode/**"
   ],
   "horusecCliHeaders": {},
-  "horusecCliHorusecApiUri": "http://0.0.0.0:8000",
-  "horusecCliJsonOutputFilepath": "/report.txt",
+  "horusecCliHorusecApiUri": "http://127.0.0.1:8043/",
+  "horusecCliJsonOutputFilepath": "",
   "horusecCliLogFilePath": "/tmp/horusec-2024-07-03-16-53-43.log",
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "text",
   "horusecCliProjectPath": "/home/amogh.dixit/Projects/horusec",
-  "horusecCliRepositoryAuthorization": "00000000-0000-0000-0000-000000000000",
-  "horusecCliRepositoryName": "horusec",
+  "horusecCliRepositoryAuthorization": "4f2421ee-58fc-419c-9537-39a2de4e264d",
+  "horusecCliRepositoryName": "Repo1",
   "horusecCliReturnErrorIfFoundVulnerability": true,
   "horusecCliRiskAcceptHashes": null,
   "horusecCliSeveritiesToIgnore": [
