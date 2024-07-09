@@ -30,7 +30,7 @@
   ],
   "horusecCliHeaders": {},
   "horusecCliHorusecApiUri": "http://127.0.1.1:8000",
-  "horusecCliJsonOutputFilepath": "/report.json",
+  "horusecCliJsonOutputFilepath": "",
   "horusecCliLogFilePath": "/tmp/horusec-2024-07-03-16-53-43.log",
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "json",
