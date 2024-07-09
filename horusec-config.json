@@ -20,7 +20,7 @@
   "horusecCliDisableDocker": false,
   "horusecCliEnableCommitAuthor": false,
   "horusecCliEnableGitHistoryAnalysis": false,
-  "horusecCliEnableInformationSeverity": false,
+  "horusecCliEnableInformationSeverity": true,
   "horusecCliEnableOwaspDependencyCheck": false,
   "horusecCliEnableShellcheck": false,
   "horusecCliFalsePositiveHashes": null,
