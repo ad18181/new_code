@@ -29,14 +29,14 @@
     "**/.vscode/**"
   ],
   "horusecCliHeaders": {},
-  "horusecCliHorusecApiUri": "http://0.0.0.0:8000",
+  "horusecCliHorusecApiUri": "http://127.0.1.1:8000",
   "horusecCliJsonOutputFilepath": "",
   "horusecCliLogFilePath": "/tmp/horusec-2024-07-03-16-53-43.log",
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "text",
   "horusecCliProjectPath": "/home/amogh.dixit/Projects/horusec",
-  "horusecCliRepositoryAuthorization": "",
-  "horusecCliRepositoryName": "test4",
+  "horusecCliRepositoryAuthorization": "1194c1fe-148c-4ed8-968d-9942c9b73ea7",
+  "horusecCliRepositoryName": "repo2",
   "horusecCliReturnErrorIfFoundVulnerability": true,
   "horusecCliRiskAcceptHashes": null,
   "horusecCliSeveritiesToIgnore": [
@@ -45,8 +45,8 @@
   "horusecCliShowVulnerabilitiesTypes": [
     "Vulnerability"
   ],
-  "horusecCliTimeoutInSecondsAnalysis": 600,
-  "horusecCliTimeoutInSecondsRequest": 600,
+  "horusecCliTimeoutInSecondsAnalysis": 2000,
+  "horusecCliTimeoutInSecondsRequest": 2000,
   "horusecCliToolsConfig": {
     "Bandit": {
       "istoignore": false
