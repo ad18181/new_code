@@ -29,8 +29,9 @@ pipeline {
 
                 script {
 
-                    sh 'horusec start -p="./" --disable-docker="true" --config-file-path=horusec-config.json '
                     sh 'pwd'
+                    sh 'horusec start -p="./" --disable-docker="true" --config-file-path=horusec-config.json '
+                    
 
                 }
 
